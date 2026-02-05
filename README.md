@@ -1,0 +1,1 @@
+This repository contains COMP258 Lab 1, exploring supervised learning with neural networks. It includes letter classification using Perceptron and ADALINE with noise and missing data analysis, and an MLP trained on the UCI Hepatitis dataset using one-hot encoding and tuned learning parameters. 
